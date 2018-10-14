@@ -19,7 +19,7 @@ KEY：HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
 - vs2015的安装   
 首先解压你所下载的压缩包，在里面找到vs_enterprise.exe双击运行，就出现了安装界面，选择安装路径后再选择自定义安装，在里面选择你所需要安装的功能，以我的enterprise版本为例，我只选择了update3和C++语言，点击下一步进入漫长的安装过程。
 - openCV3.4.1安装  
-直接将opencv-3.4.1-vc14_vc15.exe双击，然后解压到安装路径，之后在path里面添加环境变量，如本人添加的为：D:\OpenCV3.4.1\opencv\build\bin
+直接将opencv-3.4.1-vc14_vc15.exe双击，然后解压到安装路径，之后在path里面添加环境变量，如本人添加的为：D:\OpenCV3.4.1\opencv\build\x64\vc14\bin
 ### 3、vs2015里配置opencv3.4.1环境 ###
 - 配置属性表  
 这个百度一下多的是本人在这里就不再重复了，详情请参考：https://blog.csdn.net/cherishlicoolboy/article/details/81195364
