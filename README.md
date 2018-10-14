@@ -1,2 +1,2 @@
 # LearningOpenCV
-just some summaries and practice for studying openCV
+just some summaries and practice for studying openCV.
